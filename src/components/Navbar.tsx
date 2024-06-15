@@ -26,7 +26,7 @@ export const Navbar = ({ className }: { className?: string }) => {
             setActive={setActive} active={active} item="courses"
             >
                 <div className="flex flex-col space-y-4 text-sm">
-                <HoveredLink href="/courses">All Courses</HoveredLink>
+                <HoveredLink href="/courses">All Courses on youtube</HoveredLink>
                 <HoveredLink href="/courses">Basic Music Theory</HoveredLink>
                 <HoveredLink href="/courses">Advance Composition</HoveredLink>
                 <HoveredLink href="/courses">Songwriting</HoveredLink>
