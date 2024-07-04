@@ -1,5 +1,5 @@
 import React from 'react'
-import {musicSchoolContent} from '@/components/musicSchoolContent'
+import {musicSchoolContent} from '@/data/musicSchoolContent'
 import { StickyScroll } from './ui/sticky-scroll-reveal'
 
 const WhyChooseUs = () => {
